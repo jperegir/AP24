@@ -1,0 +1,7 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "port":"33066",
+    "password":"",
+    "database":"daw_advertising"
+}
